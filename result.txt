@@ -1,0 +1,1 @@
+Total Execution Time: 0.45597638289134 Mins, Total Rows Transfered: 146, Total Loops: 12
